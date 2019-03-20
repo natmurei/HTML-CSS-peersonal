@@ -1,0 +1,63 @@
+
+	body{
+		background-color: lightblue; 
+		background-image: url("../img/forest.jpg");
+	}
+
+	h1{
+		color: #ccc;
+	   background-color: darkblue;
+	   height: 70px;
+	   width: 600px;
+	   text-align: center;
+	   margin: 4 auto;s
+  }
+
+.lisa ul{
+
+	width: 230px;
+	 height: 180px;
+	  background-color: darkblue;
+	   padding: 40px;
+	    border: 40px solid red;
+	     margin: 30px auto;
+ }
+
+}
+
+
+
+.content{
+	width: 1000px;
+	height: 500px
+	background-color:crimson;
+	text-align: center;
+	text-shadow: red;
+
+}
+
+
+.container{  
+	        width: 1000px;
+			height: 500px;
+			background-color: none;
+			text-align: center;
+			margin: 5 auto;
+
+}
+
+.kape{
+	width: 1000px;
+	height: 500px;
+	text-align: center;
+	font-size: 100%;
+}
+
+img{
+
+	border-radius: 80px;
+}
+s
+
+
+

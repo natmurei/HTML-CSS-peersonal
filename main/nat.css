@@ -1,0 +1,30 @@
+h1 { background-color: blue;
+font-family: verdana;
+font-size: 300%;
+}
+
+.content{width: 1000px;
+height: 500px
+background-color:crimson;
+text-align: center;
+text-shadow: red;
+}
+body{
+	background-color: lightblue;
+
+}
+
+
+.kape{width: 1000px;
+height: 500px;
+text-align: center;
+font-size: 200%;}
+img{
+
+	border-radius: 80px;
+
+}
+.nat{
+	border-right: 60px;
+
+}
