@@ -1,0 +1,50 @@
+
+	body{
+		background-color: pink; 
+		background-image: url(img/final.jpg);
+	}
+
+	.mur{
+		color: #ccc;
+	   background-color: darkblue;
+	   height: 50px;
+	   width: 600px;
+	   text-align: center;
+	   font-family:italic;
+  }
+
+img{
+	border-radius: 80px;
+	text-align: center;
+}
+
+h2{
+	   color: black;
+	   background-color: darkviolet;
+	   height: 30px;
+	   width: 300px;
+	   text-align: center;
+	   margin:0 auto;
+	   font-family:impact,charcoal,sans-serif ;
+  }
+
+.nat p{	
+	 
+	  background-color:lightblue;
+	  font-style: italic;
+	  font-variant: small-caps;
+	  font-family:"tenor sans"cursive;   
+
+}
+
+h1{
+	 color: black;
+	   background-color:pink;
+	   height: 40px;
+	   width: 500px;
+	   text-align: center;
+	   margin:0 auto;
+	   font-family:impact,charcoal,sans-serif ;
+  }
+
+}
